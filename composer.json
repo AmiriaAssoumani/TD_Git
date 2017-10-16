@@ -1,0 +1,12 @@
+{
+    "name": "administrateur/td_git",
+    "require": {
+        "phpunit/phpunit": "^4.8"
+    },
+    "authors": [
+        {
+            "name": "Amiria",
+            "email": "amiria.assoumani@gmail.com"
+        }
+    ]
+}
